@@ -40,15 +40,15 @@ h1 {
     margin: 50px;
 }
 body {
-    background-color: #efeee7;
+    background-color: #353434;
     font: Georgia, "Times New Roman", Times, serif;
-    color: #333333;
+    color: white;
     margin: 0;
     padding: 0;
     line-height: 1.5;
 }
 .header {
-    background-color: #333333;
+    background-color: rgb(162, 88, 165);
     line-height: 1.5;
 }
 h2 {
@@ -56,5 +56,5 @@ h2 {
     line-height: 1.5;
 }
 a {
-    color: #d21034;
+    color: white;
 }
